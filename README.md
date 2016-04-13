@@ -14,4 +14,4 @@ $ echo "alias bordify='ruby ~/workspace/bordify/bordify.rb'" >> ~/.bash_profile
 `bordify MY-SCREENSHOT.png`
 **By default, Bordify will create a new image called `MY-SCREENSHOT-BORDERED.png`**
 `bordify -o MY-SCREENSHOT.png`
-**Using the `-o` flag will cause Bordify to overwrite the original image with the new bordered image.
+**Using the `-o` flag will cause Bordify to overwrite the original image with the new bordered image.**
