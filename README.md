@@ -8,6 +8,7 @@ $ git clone https://github.com/bentarnoff/bordify.git
 $ cd bordify
 $ bundle install
 $ echo "alias bordify='ruby ~/workspace/bordify/bordify.rb'" >> ~/.bash_profile
+$ source ~/.bash_profile
 ```
 
 ##Usage
